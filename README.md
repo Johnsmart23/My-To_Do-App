@@ -19,5 +19,3 @@ This is a simple To-Do List application built with React that allows users to ma
 2. React Icons: For adding icons to the task actions.
 3. CSS: Styling of the app using custom CSS classes.
 4. Local Storage: To persist tasks across page refreshes.
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
